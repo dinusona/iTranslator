@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MobileCW_02</string>
+    <string name="enter_your_english_words_and_phrases">Enter your English words and phrases</string>
+    <string name="save">Save</string>
+    <string name="language_translator_apikey">YOwaHizoQJARSGaON50VDJ0elmUnNfrEHtT5QDz_0YD7</string>
+    <string name="language_translator_url">https://api.eu-gb.language-translator.watson.cloud.ibm.com/instances/e9db8a70-048c-4667-88bd-5cbf86a31445</string>
+    <string name="translate">Translate</string>
+    <string name="arabic_ar_bengali_bn_greek_gu_czech_cs_danish_da_english_en_spain_es">Arabic - ar Bengali - bn Greek - gu Czech - cs Danish - da English - en Spain - es</string>
+
+</resources>
